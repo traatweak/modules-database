@@ -26,5 +26,12 @@
     "developer": "",
     "description": "",
     "download_url": ""
+  },
+  {
+    "name": "vexiro module",
+    "version": "version 8",
+    "developer": "@traatweak",
+    "description": "Mempercepat KInerja fps",
+    "download_url": "https://termux.dev/community"
   }
 ]
